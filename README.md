@@ -16,31 +16,30 @@ For each **task**, we:
 Task Library/
 │
 ├── Asset Pricing/
-│ ├── Asset Pricing comparison/ # Main ML vs Classical comparison for Asset Pricing
-│ │ ├── 00_overview.md # Scope, background, and objectives
-│ │ ├── 01_evaluation-metrics.md # Evaluation criteria and metrics
-│ │ ├── 02_classical-baselines/ # Classical approaches for each sub-problem
-│ │ │ ├── portfolio-optimization.md
-│ │ │ ├── Representation & Pricing.md
-│ │ │ ├── Risk-measures-var-es.md
-│ │ │ ├── Risk-premium.md
-│ │ │ └── Time-Series Forecasting.md
-│ │ ├── 03_ml-approaches/ # ML approaches for each sub-problem
-│ │ │ ├── Portfolio-optimization.md
-│ │ │ ├── Representation & Pricing.md
-│ │ │ ├── Risk-measures-var-es.md
-│ │ │ ├── Risk-premium.md
-│ │ │ └── Time-Series Forecasting.md
-│ │ ├── 04_classic-vs-ml_comparison.md # Cross-method comparison per problem
-│ │ └── 05_decision-memo.md # Final recommendations for Asset Pricing
-│ │
-│ └── literature-review/ # Related literature notes & summaries
+│   ├── Asset Pricing comparison/            # Main ML vs Classical comparison for Asset Pricing
+│   │   ├── 00_overview.md                    # Scope, background, and objectives
+│   │   ├── 01_evaluation-metrics.md          # Evaluation criteria and metrics
+│   │   ├── 02_classical-baselines/           # Classical approaches for each sub-problem
+│   │   │   ├── portfolio-optimization.md
+│   │   │   ├── Representation & Pricing.md
+│   │   │   ├── Risk-measures-var-es.md
+│   │   │   ├── Risk-premium.md
+│   │   │   └── Time-Series Forecasting.md
+│   │   ├── 03_ml-approaches/                 # ML approaches for each sub-problem
+│   │   │   ├── Portfolio-optimization.md
+│   │   │   ├── repr-and-pricing.md
+│   │   │   ├── risk-measures-var-es.md
+│   │   │   ├── Risk-premium.md
+│   │   │   └── time-series.md
+│   │   ├── 04_classic-vs-ml_comparison.md    # Cross-method comparison per problem
+│   │   └── 05_decision-memo.md               # Final recommendations for Asset Pricing
+│   │
+│   └── literature-review/                    # Related literature notes & summaries
 │
-├── Risk VaR/ # Same folder structure as Asset Pricing
-├── Time-Series Forecasting/ # Same folder structure as Asset Pricing
-├── Unsupervised, Factor Discovery/ # Same folder structure as Asset Pricing
-└── Volatility Modeling/ # Same folder structure as Asset Pricing
-
+├── Risk VaR/                                 # Same folder structure as Asset Pricing
+├── Time-Series Forecasting/                  # Same folder structure as Asset Pricing
+├── Unsupervised, Factor Discovery/           # Same folder structure as Asset Pricing
+└── Volatility Modeling/                      # Same folder structure as Asset Pricing
 
 ---
 

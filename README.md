@@ -14,6 +14,7 @@ For each **task**, we:
 
 ## 🗂 Repository Structure
 Task Library/
+```
 │
 ├── Asset Pricing/
 │   ├── Asset Pricing comparison/            # Main ML vs Classical comparison for Asset Pricing
@@ -40,7 +41,7 @@ Task Library/
 ├── Time-Series Forecasting/                  # Same folder structure as Asset Pricing
 ├── Unsupervised, Factor Discovery/           # Same folder structure as Asset Pricing
 └── Volatility Modeling/                      # Same folder structure as Asset Pricing
-
+```
 ---
 
 ## 📑 File Format for Method Analysis
